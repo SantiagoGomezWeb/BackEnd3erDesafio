@@ -1,3 +1,5 @@
+// import express from 'express';
+// import ManagerProducts from '../managers/ManagerProducts';
 const express = require('express');
 const ManagerProducts = require('../managers/ManagerProducts');
 
