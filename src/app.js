@@ -27,7 +27,9 @@ app.listen(8080, () => {
   console.log("Server is up and running on port 8000");
 })
 
+
 // nodemon src/app.js
+
 
 //prueba
 // http://localhost:8080/products
